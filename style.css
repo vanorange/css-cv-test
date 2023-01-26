@@ -1,0 +1,143 @@
+.intro {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #2F5B78;
+    color: white;
+    font-family: sans-serif;
+}
+
+.heading {
+    font-weight: 10px;
+    margin-bottom: 5px;
+    font-size: 48px;
+}
+
+.prof {
+    font-weight: lighter;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.summary{
+    font-size: 15px;
+}   
+
+.intro img {
+    float: right;
+}
+
+.contactinfo{
+    padding: 15px;
+    color: #2F5B78;
+    background-color: #EEEEEE;
+    margin-bottom: 10px;
+}
+
+.data1 {
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.data2{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.data2 .data{
+    margin-left: 15px;
+}
+
+.data3{
+    display: flex;
+}
+.data{
+    color: #4C4C4C;
+    margin-left: 10px;
+}
+
+.subheading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #2F5B78;
+    font-size: 28px;
+    margin-left: 20px;
+}
+
+.skills{
+    width: 100%;
+    margin-left: -40px;
+    margin-bottom: 40px;
+}
+
+.skills ul li{
+
+    
+    display: flex;
+    margin: 20px;
+}
+
+.skill_name{
+    color: #2F5B78;
+    
+}
+
+.skill_per{
+    color: #2F5B78;
+}
+
+.skill_prog1{
+    margin-left: 80px;
+    margin-right: 215px;
+    background-color: #2F5B78;
+    width: 60%;
+    
+}
+.skill_prog2{
+    margin-left: 60px;
+    margin-right: 336px;
+    background-color: #2F5B78;
+    width: 50%;
+    
+}
+.skill_prog3{
+    margin-left: 101px;
+    margin-right: 100px;
+    background-color: #2F5B78;
+    width: 70%;
+    
+}
+
+
+.explist{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.date{
+    font-size: large;
+    margin-bottom: 5px;
+    color:#2F5B78
+}
+.jobinfo{
+    font-weight: bolder;
+}
+
+.jobtitle{
+    font-weight: normal;
+}
+
+.jobdesc{
+    font-weight: normal;
+}
+
+.social{
+    
+    margin-left: 20px;
+    display:flex;
+    margin bottom: 40px;
+}
+
+.social a {
+    color: #2F5B78;
+}
+
